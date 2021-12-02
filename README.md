@@ -1,4 +1,4 @@
-# CHALLENGING DATA FOR SUSTAINABLE CITIES
+# EUREKATHON: CHALLENGING DATA FOR SUSTAINABLE CITIES
 # Scaling Micromobility to meet citizen demand in Matosinhos
 
 EUREKATHON is a data-driven competition that addresses societal issues associated with sustainable development goals.
