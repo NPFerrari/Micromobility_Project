@@ -9,4 +9,4 @@ Our strategy aimed at increasing micro-mobility in the city by 10% through the i
 
 With this, we were able to provide the city council with a tailor-made tool to expland micromobility infrastructure with a clear target.
 
-**Team members: Marta Bescansa, Desh Deepak, Nicolo Ferrari and Elena Salgueiro.**
+**Team members: Marta Bescansa, Desh Deepak, Elena Salgueiro, and Nicolo Paolo Ferrari.**
